@@ -2,7 +2,7 @@
 ## <div align="center">Research Associate - Student Tutor - Programmer</div>
 ## <div align="center">My Most Proficient Languages</div>
 <div align="center">
-  ![cpp]()
+  ![cpp](/Pictures/cpp.png)
 <!--
 **spa542/spa542** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
