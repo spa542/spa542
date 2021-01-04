@@ -3,6 +3,10 @@
 ## <div align="center">Language Proficiency</div>
 <div align="center">
   <img src="Pictures/cpp.png" width="100"></img>
+  <img src="Pictures/c.png" width="100"></img>
+  <img src="Pictures/csharp.png" width="100"></img>
+  <img src="Pictures/java.png" width="100"></img>
+  <img src="Pictures/python.png" width="100"></img>
 </div>
 <!--
 **spa542/spa542** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
