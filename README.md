@@ -22,8 +22,8 @@
 </ul>
 <h2> <div align="center">About Me</div> </h2>
 <div align="center"><p>I love to broaden my mind by learning more each day. I am taking a break for the winter as I prepare for the spring semester. In the meantime, 
- I am working on some small side projects to hone my skills and become more well rounded. Currently, I have accepted an offer to intern at JP Morgan Chase 
- this summer 2021. For more information about me and my work, please have a look at my github or check out my 
+ I am working on some small side projects to hone my skills and become more well rounded. Currently, I have accepted an offer to intern at JP Morgan Chase this 
+ summer 2021. For more information about me and my work, please have a look at my github or check out my 
  <a href="http://spa542.pythonanywhere.com/index.html">portfolio</a>.</p></div>
 <h2> <div align="left">Current Classes:</div> </h2>
 <ul>
