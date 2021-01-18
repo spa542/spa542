@@ -12,8 +12,10 @@
 <ul>
   <li><p>Numpy, Matplotlib, Pandas, and Seaborn</p></li>
   <li><p>Jupyter Notebooks</p></li>
+  <li><p>PHP</p></li>
+  <li><p>Spring Core, Boot, Maven, MVC, REST, and Hibernate</p></li>
   <li><p>Microsoft Server using Linq</p></li>
-  <li><p>XAML</p></li>
+  <li><p>Basic XAML, HTML, CSS, and Javascript</p></li>
   <li><p>Flask</p></li>
   <li><p>PostgresSQL and some MySql</p></li>
   <li><p>Openmpi3 and MPICH3</p></li>
@@ -33,9 +35,9 @@
 <ol>
   <li><p>Pathfinding/Graph Algorithm Visualizer</p></li>
   <li><p>Updating Portfolio Website</p></li>
-  <li><p>Learning LaTex and Tmux</p></li>
   <li><p>Learning PHP</p></li>
   <li><p>Beginning Design MatchMyMunchies</p></li>
+  <li><p>Building web apps in Spring and applying current Java knowledge</p></li>
 </ol>
 <!--
 **spa542/spa542** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
