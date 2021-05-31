@@ -1,5 +1,5 @@
 <h1> <div align="center">Ryan Rosiak</div> </h1>
-<h2> <div align="center">Research Associate - Student Tutor - Programmer</div> </h2>
+<h2> <div align="center">Software Engineer Intern - Student Tutor - Programmer</div> </h2>
 <h2> <div align="center">Language Proficiency</div> </h2>
 <div align="center">
   <img src="Pictures/cpp.png" width="100"></img>
