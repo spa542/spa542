@@ -8,12 +8,12 @@
   <img src="Pictures/csharp.png" width="100"></img>
   <img src="Pictures/java.png" width="100"></img>
   <img src="Pictures/python.png" width="100"></img>
+  <img src="Pictures/php2.png" width="165"></img>
 </div>
 <h2> <div align="center">Other Library/Application Knowledge</div> </h2>
 <ul>
   <li><p>Numpy, Matplotlib, Pandas, and Seaborn</p></li>
   <li><p>Jupyter Notebooks</p></li>
-  <li><p>PHP</p></li>
   <li><p>Spring Core, Boot, Maven, MVC, REST, and Hibernate</p></li>
   <li><p>Microsoft Server using Linq</p></li>
   <li><p>Basic XAML, HTML, CSS, and Javascript</p></li>
