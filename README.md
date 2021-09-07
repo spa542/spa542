@@ -1,6 +1,6 @@
 <h1> <div align="center">Ryan Rosiak</div> </h1>
-<h2> <div align="center">Software Engineer Intern @ JP Morgan Chase</div> </h2>
-<h2> <div align="center">Student Tutor - Programmer</div> </h2>
+<h2> <div align="center">Software Engineer @ JP Morgan Chase</div> </h2>
+<h2> <div align="center">Student Tutor - Programmer - Mentor</div> </h2>
 <h2> <div align="center">Language Proficiency</div> </h2>
 <div align="center">
   <img src="Pictures/cpp.png" width="100"></img>
@@ -12,6 +12,7 @@
 </div>
 <h2> <div align="center">Other Library/Application Knowledge</div> </h2>
 <ul>
+  <li><p>Cloud Foundry Applications (Jira, Confluence, GAP/GKP)</p></li>
   <li><p>Numpy, Matplotlib, Pandas, and Seaborn</p></li>
   <li><p>Jupyter Notebooks</p></li>
   <li><p>Spring Core, Boot, Maven, MVC, REST, and Hibernate</p></li>
@@ -22,8 +23,7 @@
   <li><p>Openmpi3 and MPICH3</p></li>
 </ul>
 <h2> <div align="center">About Me</div> </h2>
-<div align="center"><p>Currently, I have just started my internship at JP Morgan Chase as a Software Engineer working in Consumer and Community Banking. My team and I are working on a JIRA bot using machine learning techniques and python. This summer I will also be working on some side projects (see below) when I am not busy with my internship.
- <a href="http://spa542.pythonanywhere.com/index.html">portfolio</a>.</p></div>
+<div align="center"><p>I have just finished my internship at JP Morgan Chase as a Software Engineer working in Consumer and Community Banking. My team and I are worked on a service desk automation bot using machine learning and python. JP Morgan Chase gave me a fresh perspective on what I want to pursue. I look forward to learning cybersecurity and infrastructure engineering concepts as I pursue a job after college. I am starting my first semester of senior year and am ready to learn more. See my <a href="http://spa542.pythonanywhere.com/index.html">portfolio</a>.</p></div>
 <h2> <div align="left">Current Classes:</div> </h2>
 <ul>
   <li><p>COSC 450 - Operating Systems</p></li>
@@ -33,10 +33,10 @@
 </ul>
 <h2> <div align="left">Current Projects:</div> </h2>
 <ol>
+  <li><p>Learning React Native mobile development for MusicTown Live (Source: <a href="https://apps.apple.com/us/app/musictown-live-find-live-music/id1217586564">Apple</a> - <a href="https://play.google.com/store/apps/details?id=com.musiqueliveapp&hl=en_US&gl=US">Android</a>)</p></li>
+  <li>Exploring cybersecurity and infrastructure engineering topics</li>
   <li><p>Updating project <a href="https://github.com/spa542/HonorSocietiesDB">HonorSocietesDB</a> for school production</p></li>
   <li><p>Pathfinding/Graph Algorithm Visualizer</p></li>
-  <li><p>Beginning Design MatchMyMunchies</p></li>
-  <li><p>Building web apps in Spring and applying current Java knowledge</p></li>
   <li><p>Refactoring entire portfolio website
 </ol>
 <!--
