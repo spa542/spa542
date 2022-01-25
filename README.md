@@ -13,31 +13,35 @@
 <h2> <div align="center">Other Library/Application Knowledge</div> </h2>
 <ul>
   <li><p>Cloud Foundry Applications (Jira, Confluence, GAP/GKP)</p></li>
+  <li><p>React Native and React (Mobile Development)</p></li>
   <li><p>Numpy, Matplotlib, Pandas, and Seaborn</p></li>
   <li><p>Jupyter Notebooks</p></li>
-  <li><p>Spring Core, Boot, Maven, MVC, REST, and Hibernate</p></li>
+  <li><p>Nmap, Burpsuite, Metasploit, and other Ethical Hacking Software/Concepts</p></li>
+  <li><p>Debian based linux environment (Bash, CLI)</p></li>
+  <li><p>Shell scripting</p></li>
+  <li><p>Spring Core, Boot, Maven, and MVC</p></li>
   <li><p>Microsoft Server using Linq</p></li>
-  <li><p>Basic XAML, HTML, CSS, and Javascript</p></li>
+  <li><p>XAML, XML, YAML, HTML, CSS, and Javascript</p></li>
   <li><p>Flask</p></li>
   <li><p>PostgreSQL and MySQL</p></li>
   <li><p>Openmpi3 and MPICH3</p></li>
 </ul>
 <h2> <div align="center">About Me</div> </h2>
-<div align="center"><p>I have just finished my internship at JP Morgan Chase as a Software Engineer working in Consumer and Community Banking. My team and I are worked on a service desk automation bot using machine learning and python. JP Morgan Chase gave me a fresh perspective on what I want to pursue. I look forward to learning cybersecurity and infrastructure engineering concepts as I pursue a job after college. I am starting my first semester of senior year and am ready to learn more. See my <a href="http://spa542.pythonanywhere.com/index.html">portfolio</a>.</p></div>
+<div align="center"><p>I am currently in my last semester at Salisbury University eagerly waiting to start my full time software engineering position at JP Morgan Chase this upcoming summer. I am most interested in cybersecurity, mainframe, machine learning, and systems software. As college is coming to a close, I have been reflecting on and trying to refine many concepts that I have learned since I have been at school. Some side projects that I am working on can be seen below. See my <a href="http://spa542.pythonanywhere.com/index.html">portfolio</a> to view and download current/ongoing projects.</p></div>
 <h2> <div align="left">Current Classes:</div> </h2>
 <ul>
-  <li><p>COSC 450 - Operating Systems</p></li>
-  <li><p>COSC 425 - Software Engineering 1</p></li>
-  <li><p>DSCL 470 - Research Methods in Data Science</p></li>
-  <li><p>COSC 380 - Internship Presentation</p></li>
+  <li><p>COSC 426 - Software Engineering II</p></li>
+  <li><p>DSCI 490 - Data Science Capstone</p></li>
+  <li><p>COSC 370 - Network Engineering</p></li>
+  <li><p>COSC 390 - Cybersecurity Lab Research</p></li>
 </ul>
 <h2> <div align="left">Current Projects:</div> </h2>
 <ol>
-  <li><p>Learning React Native mobile development for MusicTown Live (Source: <a href="https://apps.apple.com/us/app/musictown-live-find-live-music/id1217586564">Apple</a> - <a href="https://play.google.com/store/apps/details?id=com.musiqueliveapp&hl=en_US&gl=US">Android</a>)</p></li>
-  <li>Exploring cybersecurity and infrastructure engineering topics</li>
-  <li><p>Updating project <a href="https://github.com/spa542/HonorSocietiesDB">HonorSocietesDB</a> for school production</p></li>
+  <li><p>Continuing app development for MusicTown Live (Source: <a href="https://apps.apple.com/us/app/musictown-live-find-live-music/id1217586564">Apple</a> - <a href="https://play.google.com/store/apps/details?id=com.musiqueliveapp&hl=en_US&gl=US">Android</a>)</p></li>
+  <li>Exploring cybersecurity and mainframe topics</li>
+  <li><p>Updating project <a href="https://github.com/spa542/HonorSocietiesDB">HonorSocietesDB</a> for university</p></li>
   <li><p>Pathfinding/Graph Algorithm Visualizer</p></li>
-  <li><p>Refactoring entire portfolio website
+  <li><p>Refactoring entire portfolio website</p</li>
 </ol>
 <!--
 **spa542/spa542** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
