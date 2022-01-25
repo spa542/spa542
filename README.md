@@ -42,7 +42,6 @@
   <li><p>Refactoring entire portfolio website</p</li>
   <li><p>Updating project <a href="https://github.com/spa542/HonorSocietiesDB">HonorSocietesDB</a> for university</p></li>
   <li><p>Pathfinding/Graph Algorithm Visualizer</p></li>
-  <li><p>Refactoring entire portfolio website</p</li>
 </ol>
 <!--
 **spa542/spa542** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
