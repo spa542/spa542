@@ -39,6 +39,7 @@
 <ol>
   <li><p>Continuing app development for MusicTown Live (Source: <a href="https://apps.apple.com/us/app/musictown-live-find-live-music/id1217586564">Apple</a> - <a href="https://play.google.com/store/apps/details?id=com.musiqueliveapp&hl=en_US&gl=US">Android</a>)</p></li>
   <li>Exploring cybersecurity and mainframe topics</li>
+  <li><p>Refactoring entire portfolio website</p</li>
   <li><p>Updating project <a href="https://github.com/spa542/HonorSocietiesDB">HonorSocietesDB</a> for university</p></li>
   <li><p>Pathfinding/Graph Algorithm Visualizer</p></li>
   <li><p>Refactoring entire portfolio website</p</li>
