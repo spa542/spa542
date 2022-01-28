@@ -18,7 +18,7 @@
   <li><p>Jupyter Notebooks</p></li>
   <li><p>Nmap, Burpsuite, Metasploit, and other Ethical Hacking Software/Concepts</p></li>
   <li><p>Debian based linux environment (Bash, CLI)</p></li>
-  <li><p>Shell scripting</p></li>
+  <li><p>Shell Scripting</p></li>
   <li><p>Spring Core, Boot, Maven, and MVC</p></li>
   <li><p>Microsoft Server using Linq</p></li>
   <li><p>XAML, XML, YAML, HTML, CSS, and Javascript</p></li>
