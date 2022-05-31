@@ -27,14 +27,10 @@
   <li><p>Openmpi3 and MPICH3</p></li>
 </ul>
 <h2> <div align="center">About Me</div> </h2>
-<div align="center"><p>I am currently in my last semester at Salisbury University eagerly waiting to start my full time software engineering position at JP Morgan Chase this upcoming summer. I am most interested in cybersecurity, mainframe, machine learning, and systems software. As college is coming to a close, I have been reflecting on and trying to refine many concepts that I have learned since I have been at school. Some side projects that I am working on can be seen below. See my <a href="http://spa542.pythonanywhere.com/index.html">portfolio</a> to view and download current/ongoing projects.</p></div>
-<h2> <div align="left">Current Classes:</div> </h2>
-<ul>
-  <li><p>COSC 426 - Software Engineering II</p></li>
-  <li><p>DSCI 490 - Data Science Capstone</p></li>
-  <li><p>COSC 370 - Network Engineering</p></li>
-  <li><p>COSC 390 - Cybersecurity Lab Research</p></li>
-</ul>
+<div align="center"><p>I have just recently graduated from Salisbury University and have started working as a full time software engineer at JP Morgan Chase.
+  I am currently a python developer working with Apache Spark, Hadoop, and AWS cloud technologies. I am very interested in a wide variety of fields including
+  machine learning, big data, cloud, cybersecurity, and systems software. Some side projects that I have been working on can be viewed below. 
+  See my <a href="http://spa542.pythonanywhere.com/index.html">portfolio</a> to view and download current/ongoing projects.</p></div>
 <h2> <div align="left">Current Projects:</div> </h2>
 <ol>
   <li><p>Continuing app development for MusicTown Live (Source: <a href="https://apps.apple.com/us/app/musictown-live-find-live-music/id1217586564">Apple</a> - <a href="https://play.google.com/store/apps/details?id=com.musiqueliveapp&hl=en_US&gl=US">Android</a>)</p></li>
