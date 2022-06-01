@@ -1,6 +1,6 @@
 <h1> <div align="center">Ryan Rosiak</div> </h1>
 <h2> <div align="center">Software Engineer @ JP Morgan Chase</div> </h2>
-<h2> <div align="center">Student Tutor - Programmer - Mentor</div> </h2>
+<h2> <div align="center">Tutor - Developer - Mentor</div> </h2>
 <h2> <div align="center">Language Proficiency</div> </h2>
 <div align="center">
   <img src="Pictures/cpp.png" width="100"></img>
@@ -13,6 +13,7 @@
 <h2> <div align="center">Other Library/Application Knowledge</div> </h2>
 <ul>
   <li><p>Cloud Foundry Applications (Jira, Confluence, GAP/GKP)</p></li>
+  <li><p>Hadoop/HDFS, Hive, Pyspark2/3, and Docker</p></li>
   <li><p>React Native and React (Mobile Development)</p></li>
   <li><p>Numpy, Matplotlib, Pandas, and Seaborn</p></li>
   <li><p>Jupyter Notebooks</p></li>
