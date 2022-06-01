@@ -34,6 +34,8 @@
   See my <a href="http://spa542.pythonanywhere.com/index.html">portfolio</a> to view and download current/ongoing projects.</p></div>
 <h2> <div align="left">Current Projects:</div> </h2>
 <ol>
+  <li><p>Keep In Contact Email Bot</p></li>
+  <li><p>Creating a single node Hadoop/Hive/Pyspark cluster</p></li>
   <li><p>Continuing app development for MusicTown Live (Source: <a href="https://apps.apple.com/us/app/musictown-live-find-live-music/id1217586564">Apple</a> - <a href="https://play.google.com/store/apps/details?id=com.musiqueliveapp&hl=en_US&gl=US">Android</a>)</p></li>
   <li>Exploring cybersecurity and mainframe topics</li>
   <li><p>Refactoring entire portfolio website</p</li>
