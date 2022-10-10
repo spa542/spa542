@@ -6,8 +6,9 @@
   <img src="Pictures/cpp.png" width="100"></img>
   <img src="Pictures/c.png" width="100"></img>
   <img src="Pictures/csharp.png" width="100"></img>
-  <img src="Pictures/java.png" width="100"></img>
+  <img src="Pictures/scalaresized.png" width="100"></img>
   <img src="Pictures/python.png" width="100"></img>
+  <img src="Pictures/java.png" width="100"></img>
   <img src="Pictures/php2.png" width="165"></img>
 </div>
 <h2> <div align="center">Other Library/Application Knowledge</div> </h2>
