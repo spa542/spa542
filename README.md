@@ -27,7 +27,7 @@
   </ul>
   <h3> <div align="left">Cloud</div> </h3>
   <ul>
-    <li><p>AWS EKS, EC2, EMR, S3, and Lambda</p></li>
+    <li><p>AWS EKS, EC2, EMR, S3, EFS, and Lambda</p></li>
     <li><p>Docker/Kubernetes</p></li>
   </ul>
   <h3> <div align="left">Machine Learning</div> </h3>
