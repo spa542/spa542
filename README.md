@@ -11,26 +11,59 @@
   <img src="Pictures/java.png" width="100"></img>
   <img src="Pictures/php2.png" width="165"></img>
 </div>
-<h2> <div align="center">Other Library/Application Knowledge</div> </h2>
-<ul>
-  <li><p>Cloud Foundry Applications (Jira, Confluence, GAP/GKP)</p></li>
-  <li><p>Hadoop/HDFS, Hive, Pyspark2/3, and Docker</p></li>
-  <li><p>React Native and React (Mobile Development)</p></li>
-  <li><p>Numpy, Matplotlib, Pandas, and Seaborn</p></li>
-  <li><p>Jupyter Notebooks</p></li>
-  <li><p>Nmap, Burpsuite, Metasploit, and other Ethical Hacking Software/Concepts</p></li>
-  <li><p>Debian based linux environment (Bash, CLI)</p></li>
-  <li><p>Shell Scripting</p></li>
-  <li><p>Spring Core, Boot, Maven, and MVC</p></li>
-  <li><p>Microsoft Server using Linq</p></li>
-  <li><p>XAML, XML, YAML, HTML, CSS, and Javascript</p></li>
-  <li><p>Flask</p></li>
-  <li><p>PostgreSQL and MySQL</p></li>
-  <li><p>Openmpi3 and MPICH3</p></li>
+<h2> <div align="center">Library/Application Knowledge</div> </h2>
+<ul class="dashed">
+  <h3> <div align="left">All Purpose</div> </h3>
+  <ul>
+    <li><p>Cloud Foundry Applications (Jira, Confluence, Bitbucket)</p></li>
+    <li><p>Github</p></li>
+    <li><p>Debian based linux environment (Bash, CLI)</p></li>
+    <li><p>Unix Shell Scripting</p></li>
+    <li><p>XAML, XML, YAML, and other markup languages</p></li>
+  </ul>
+  <h3> <div align="left">Big Data</div> </h3> 
+  <ul>
+      <li><p>Hadoop, Hive, PySpark/ScalaSpark, and Yarn</p></li>
+  </ul>
+  <h3> <div align="left">Cloud</div> </h3>
+  <ul>
+    <li><p>AWS EKS, EC2, EMR, S3, and Lambda</p></li>
+    <li><p>Docker/Kubernetes</p></li>
+  </ul>
+  <h3> <div align="left">Machine Learning</div> </h3>
+  <ul>
+    <li><p>Time Series Forecasting</p></li>
+    <li><p>Basic Regression and Classification models</p></li>
+    <li><p>nltk, Numpy, Matplotlib, Pandas, and Seaborn</p></li>
+    <li><p>Jupyter Notebooks</p></li>
+  </ul>
+  <h3> <div align="left">Database</div> </h3>
+  <ul>
+    <li><p>PostgreSQL, NoSQL, and MySQL</p></li>
+    <li><p>Microsoft Server using Linq</p></li>
+  </ul>
+  <h3> <div align="left">Parallel Processing</div> </h3>
+  <ul>
+    <li><p>Openmpi3 and MPICH3</p></li>
+  </ul>
+  <h3> <div align="left">Cybersecurity</div> </h3>
+  <ul>
+    <li><p>Nmap, Burpsuite, and Metasploit</p></li>
+  </ul>
+  <h3> <div align="left">Web/Mobile Dev</div> </h3>
+  <ul>
+    <li><p>React Native and React (Mobile Development)</p></li>
+    <li><p>HTML, CSS, and Javascript</p></li>
+    <li><p>Spring Core, Boot, Maven, and MVC</p></li>
+    <li><p>Flask</p></li>
+  </ul>
+</ul>
+  
+  
 </ul>
 <h2> <div align="center">About Me</div> </h2>
 <div align="center"><p>I have just recently graduated from Salisbury University and have started working as a full time software engineer at JP Morgan Chase.
-  I am currently a python developer working with Apache Spark, Hadoop, and AWS cloud technologies. I am very interested in a wide variety of fields including
+  I am currently a python developer working with Spark, Hadoop, and AWS cloud technologies. I am very interested in a wide variety of fields including
   machine learning, big data, cloud, cybersecurity, and systems software. Some side projects that I have been working on can be viewed below. 
   See my <a href="http://spa542.pythonanywhere.com/index.html">portfolio</a> to view and download current/ongoing projects.</p></div>
 <h2> <div align="left">Current Projects:</div> </h2>
