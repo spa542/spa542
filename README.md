@@ -3,7 +3,7 @@
 <h2> <div align="center">Tutor - Developer - Mentor</div> </h2>
 <h2> <div align="center">Certifications</div> </h2>
 <div align="center">
-  <img src="Pictures/aws-certified-developer-associate.png" width="100"></img>
+  <img src="Pictures/aws-certified-developer-associate.png" width="135"></img>
 </div>
 <h2> <div align="center">Language Proficiency</div> </h2>
 <div align="center">
