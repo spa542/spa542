@@ -1,6 +1,10 @@
 <h1> <div align="center">Ryan Rosiak</div> </h1>
 <h2> <div align="center">Software Engineer @ JP Morgan Chase</div> </h2>
 <h2> <div align="center">Tutor - Developer - Mentor</div> </h2>
+<h2> <div align="center">Certifications</div> </h2>
+<div align="center">
+  <img src="Pictures/aws-certified-developer-associate.png" width="100"></img>
+</div>
 <h2> <div align="center">Language Proficiency</div> </h2>
 <div align="center">
   <img src="Pictures/cpp.png" width="100"></img>
