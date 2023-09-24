@@ -1,9 +1,10 @@
 <h1> <div align="center">Ryan Rosiak</div> </h1>
-<h2> <div align="center">Software Engineer @ JP Morgan Chase</div> </h2>
+<h2> <div align="center">Machine Learning Engineer @ JP Morgan Chase</div> </h2>
 <h2> <div align="center">Tutor - Developer - Mentor</div> </h2>
 <h2> <div align="center">Certifications</div> </h2>
 <div align="center">
   <img src="Pictures/aws-certified-developer-associate.png" width="135"></img>
+  <img src="Pictures/terraform-associate-badge.png" width="135"></img>
 </div>
 <h2> <div align="center">Language Proficiency</div> </h2>
 <div align="center">
