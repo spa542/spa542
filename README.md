@@ -5,6 +5,7 @@
 <div align="center">
   <img src="Pictures/aws-certified-developer-associate.png" width="135"></img>
   <img src="Pictures/terraform-associate-badge.png" width="135"></img>
+  <img src="Pictures/aws-certified-machine-learning-specialty.png" width="135"></img>
 </div>
 <h2> <div align="center">Language Proficiency</div> </h2>
 <div align="center">
